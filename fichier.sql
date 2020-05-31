@@ -1,1 +1,1 @@
-select * from employees;
+select nom, prenom, age from employees;
